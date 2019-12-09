@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css?family=Big+Shoulders+Text|Saira+Semi+Condensed|Squada+One&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Big+Shoulders+Text|Saira+Semi+Condensed|Sanchez|Squada+One&display=swap");
+.container {
+  margin-top: 50px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  border-radius: 5px;
+}
+
+.colm1 {
+  height: 500px;
+  background-color: #339e66ff;
+  margin: 0px !important;
+  padding: 20px;
+  padding-bottom: 40px !important;
+}
+.summary {
+  text-align: center !important;
+}
+
+.colm2 {
+  background-color: #078282ff;
+  height: 500px;
+  margin: 0px !important;
+  padding: 20px;
+  padding-bottom: 40px !important;
+}
+.task {
+  border: 1px solid rgb(28, 122, 72) !important;
+  border-radius: 3px;
+  margin-bottom: 4% !important;
+  padding: 5px !important;
+  font-family: "Squada One", cursive !important;
+  font-family: "Saira Semi Condensed", sans-serif !important;
+  font-family: "Big Shoulders Text", cursive !important;
+  font-family: "Sanchez", serif !important;
+}
+.view_task {
+  color: white !important;
+  margin: auto !important;
+  border: 1px solid white !important;
+}
+.btn_section {
+  text-align: center;
+}
+.lable {
+  display: inline-block;
+  float: right !important;
+}
+.summary {
+  font-family: "Squada One", cursive !important;
+  font-family: "Saira Semi Condensed", sans-serif !important;
+  font-family: "Big Shoulders Text", cursive !important;
+  line-height: 50px !important;
+}
+.middle_section {
+  margin: 5% 0 !important;
+}
+.reminder {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  background-color: white;
+  border-radius: 8px !important;
+  padding: 20px !important;
+  width: 85% !important;
+  margin: auto !important;
+  margin-bottom: 10px !important;
+}
+.show_work_section {
+  max-height: 250px !important;
+  overflow: scroll;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+.icon_section {
+  float: right !important;
+  display: inline-block;
+  /* position: absolute; */
+  right: 0px !important;
+}
+

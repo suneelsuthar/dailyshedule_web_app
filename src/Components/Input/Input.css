@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css?family=Big+Shoulders+Text|Saira+Semi+Condensed|Sanchez|Squada+One&display=swap");
+
+.input {
+  width: 100% !important;
+  margin-top: 3% !important;
+  padding: 5px !important;
+  font-family: "Squada One", cursive !important;
+  font-family: "Saira Semi Condensed", sans-serif !important;
+  font-family: "Big Shoulders Text", cursive !important;
+  font-family: "Sanchez", serif !important;
+}
+.helper {
+  margin-top: -4px !important;
+  padding-left: 7px !important;
+}
